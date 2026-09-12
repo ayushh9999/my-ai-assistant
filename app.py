@@ -156,7 +156,7 @@ st.markdown(
 
 st.markdown(
     '<div class="brand-mark"><span class="brand-dot"></span>Ayush\'s AI Assistant</div>'
-    '<div class="brand-subtitle">A little help from me, for conversations about me.</div>',
+    '<div class="brand-subtitle">I\'m Ayush\'s assistant. If you want to know anything about him, ask me.</div>',
     unsafe_allow_html=True,
 )
 
