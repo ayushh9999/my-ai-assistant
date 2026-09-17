@@ -161,7 +161,7 @@ def run_chat(chain):
 
 # ── 7. Main entry point ────────────────────────
 if __name__ == "__main__":
-    CV_FILE = "abcde14.pdf"   # ← Change this to your CV filename
+    CV_FILE = "abcde (15).pdf"   # ← Change this to your CV filename
 
     documents    = load_cv(CV_FILE)
     chunks       = split_into_chunks(documents)
