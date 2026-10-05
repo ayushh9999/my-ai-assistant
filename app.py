@@ -33,9 +33,9 @@ def get_groq_api_key():
 
 
 GROQ_API_KEY = get_groq_api_key()
-DEFAULT_CV = Path(__file__).with_name("abcde (15).pdf")
+DEFAULT_CV = Path(__file__).with_name("detailed_cv.pdf")
 
-# ── Page config ────────────────────────────────
+# ── Page config ────────────────────────────────x  
 st.set_page_config(page_title="Ayush's AI Assistant", page_icon="👓", layout="centered")
 
 st.markdown(
